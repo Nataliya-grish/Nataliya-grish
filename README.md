@@ -1,6 +1,6 @@
 ### Привет! 👋
-Меня зовут Наталья Гришина, я являюсь fullstack-разработчиком на JavaScript.
-**Моя компетенция:**
+Меня зовут Наталья Гришина, я являюсь fullstack-разработчиком на JavaScript. 
+**Мои компетенции:**
 - Языки программирования: **JavaScript**
 - Вёрстка: **HTML, CSS**
 - Базы данных: **MongoDB**
@@ -11,7 +11,7 @@
 - Основы программирования на JavaScript (диплом): https://github.com/Nataliya-grish/bjs-diplom
 - JavaScript & браузер (диплом): https://github.com/Nataliya-grish/bhj-diploma
 - Разработка ретро-игры на JavaScript (диплом): https://github.com/Nataliya-grish/js-advanced-diploma
-- Разработка backend-части сайта-библиотеки: добавление, удаление, редактирование книг, аутенофикация и коментарии: https://github.com/Nataliya-grish/ndtnf-websocket
+- Разработка backend-части сайта-библиотеки: добавление, удаление, редактирование книг, аутентификация и коментарии: https://github.com/Nataliya-grish/ndtnf-websocket
 - Итоговая дипломная работа по всему обучению (сервис бронирования отелей по типу Booking; Nest.js + React Redux):https://github.com/Nataliya-grish/booking-diplom
 
 
@@ -25,7 +25,6 @@
 - Продвинутый JavaScript (ООП, webpack, regexp, promise): https://netology.ru/sharing/69395de915ca796bb13a6558d827a2bc?utm_source=social&utm_campaign=achievements
 - React (hooks, context api, router, redux (toolkit, saga)): https://netology.ru/sharing/5386eb562cb7ac8dcb848a037c02363d?utm_source=social&utm_campaign=achievements
 - Введение в Node.JS, библиотека Express.js (пакеты, потоки, middleware, шаблонизаторы (ejs), контейнеризация Docker, passport.js, socket.io, mongoose): https://netology.ru/sharing/66bc52bf22094952a057051c433e4f10?utm_source=social&utm_campaign=achievements
-- Введение в Node.JS, библиотека Express.js (пакеты, потоки, middleware, шаблонизаторы (ejs), контейнеризация Docker, passport.js, socket.io, mongoose): https://netology.ru/sharing/bd5bf253c1a884b834b583bb71b4e2f1?utm_source=social&utm_campaign=certificate_lms
 - TypeScript, Nest.js, Yandex Cloud (IoC контейнеры, TypeScript, потоки RxJs, Jest): https://netology.ru/sharing/03f6b92a0d89b7df839be4a459edb8f3?utm_source=social&utm_campaign=achievements
 - Основы графического дизайна (для студентов программирования): https://netology.ru/sharing/078dd577c55afa783b2710712ae17d33?utm_source=social&utm_campaign=achievements
 - Итоговый диплом (сервис бронирования отелей по типу Booking, имеется диплом государственного образца): https://netology.ru/sharing/249d59ac282ad04ab22c9eae5483efe3?utm_source=social&utm_campaign=achievements
