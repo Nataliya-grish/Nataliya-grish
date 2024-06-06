@@ -15,7 +15,7 @@
 
 **Мои компетенции:**
 
-- Языки программирования: **JavaScript**
+- Языки программирования: **JavaScript**, **TypeScript**
 - Вёрстка: **HTML, CSS**
 - Базы данных: **MongoDB**
 - Фреймворки / библиотеки: **Node.js, Express.js, React (+ redux), Nest.js, Mongoose, Socket.IO, Passport.js, EJS, webpack**
@@ -27,7 +27,7 @@
 - Основы программирования на JavaScript (диплом): https://github.com/Nataliya-grish/bjs-diplom
 - JavaScript & браузер (диплом): https://github.com/Nataliya-grish/bhj-diploma
 - Разработка ретро-игры на JavaScript (диплом): https://github.com/Nataliya-grish/js-advanced-diploma
-- Разработка backend-части сайта-библиотеки: добавление, удаление, редактирование книг, аутентификация и коментарии: https://github.com/Nataliya-grish/ndtnf-websocket
+- Разработка backend-части сайта-библиотеки: добавление, удаление, редактирование книг, аутентификация и комментарии: https://github.com/Nataliya-grish/ndtnf-websocket
 - Итоговая дипломная работа по всему обучению (сервис бронирования отелей по типу Booking; Nest.js + React Redux):https://github.com/Nataliya-grish/booking-diplom
 
 
