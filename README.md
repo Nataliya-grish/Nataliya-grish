@@ -21,7 +21,7 @@
 - Фреймворки / библиотеки: **Node.js, Express.js, React (+ redux), Nest.js, Mongoose, Socket.IO, Passport.js, EJS, webpack**
 - Программное обеспечение: **Docker**
 
-- 
+ 
 **Посмотрите на мои работы:**
 - Адаптивная вёрстка по дизайн-макету (диплом): https://github.com/Nataliya-grish/mq-diplom
 - Основы программирования на JavaScript (диплом): https://github.com/Nataliya-grish/bjs-diplom
