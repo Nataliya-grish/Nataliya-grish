@@ -22,7 +22,7 @@
 - Программное обеспечение: **Docker**
 
  
-**Посмотрите на мои работы:**
+**Посмотрите мои работы:**
 - Адаптивная вёрстка по дизайн-макету (диплом): https://github.com/Nataliya-grish/mq-diplom
 - Основы программирования на JavaScript (диплом): https://github.com/Nataliya-grish/bjs-diplom
 - JavaScript & браузер (диплом): https://github.com/Nataliya-grish/bhj-diploma
