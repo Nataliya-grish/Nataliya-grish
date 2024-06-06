@@ -3,20 +3,13 @@
 Меня зовут **Наталья Гришина**, я являюсь fullstack-разработчиком на JavaScript. 
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=IvanDubinin&show_icons=true&count_private=true"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=Nataliya-grish&show_icons=true&count_private=true"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=IvanDubinin&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/IvanDubinin/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanDubinin&layout=compact"/></a>
+           src="https://github-readme-stats.vercel.app/api?username=Nataliya-grish&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/Nataliya-grish/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nataliya-grish&layout=compact"/></a>
 </p>
 
-<p align='center'>
-   <a href="https://telegram.me/DuIval">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
-<p align='center'>
-   📫 How to reach me: <a href='mailto:ivan.a.dubinin@gmail.com'>ivan.a.dubinin@gmail.com</a>
-</p>
 
 
 
